@@ -1,0 +1,5 @@
+Assumptions:
+
+The data shown relates to gross income, net income and revenue 
+
+Challenges:
